@@ -18,56 +18,27 @@ Este projeto foi desenvolvido para o uso didatico e de aprendizado da linguaguem
 
 ## 📱 Interface do APP
 
-### 🔹 Principal do APP
+### 🔹 Tela Principal do APP
 📌 Nesta tela o Jogador escolhe uma das opções (Pedra, Papel ou Tesoura) e o adversário (Sistema) escolhe umas das opções aleatoria.
     Assim verificando se o Jogador Ganhou ou Perdeu
 
 <div align="center">
-<img width="470" alt="Login" src="ttps://private-user-images.githubusercontent.com/92460928)" />
+<img width="187" alt="Image" src="https://github.com/user-attachments/assets/1f451918-fa6c-4087-aba7-577f2e15ca98" />
+</div>
+
+### 🔹 Telas Do Resultado
+
+<div align="center">
+<img width="180" alt="Image" src="https://github.com/user-attachments/assets/90f05757-6649-480f-bd87-b0489351ea08" />
 </div>
 
 <div align="center">
-<img width="411" alt="Login" src="https://github.com/user-attachments/assets/3a39ce5f-f1b4-46f5-b11b-4e242d983700" />
+<img width="192" alt="Image" src="https://github.com/user-attachments/assets/bcdb8091-0388-4ef7-8fd2-9a3caf816ca2" />
 </div>
 
 <div align="center">
-<img width="370" alt="Login" src="https://github.com/user-attachments/assets/88be653c-91be-43d9-8137-6e495987f7e4" />
+<img width="186" alt="Image" src="https://github.com/user-attachments/assets/b01ddae7-8e43-464d-a72a-bbcafa2cb5d1" />
 </div>
 
----
-
-### 🔹 Interface de Interação do Usuário  
-<div align="center">
-<img width="309" alt="Interface do Usuário" src="https://github.com/user-attachments/assets/434c1b04-1b8d-4017-b43d-3dce619af0c9" />
-</div>
-
----
-
-### 🔹 Interface de Criação das Tarefas  
-<div align="center">
-<img width="429" alt="Criar Tarefas" src="https://github.com/user-attachments/assets/5b5842b5-12df-4e35-94e2-f25de3424a93" />
-</div>
-
-<div align="center">
-<img width="454" alt="Criar Tarefas" src="https://github.com/user-attachments/assets/f073dab0-0915-47fb-8233-c3789dd4a012" />
-</div>
-
----
-
-### 🔹 Interface de Consulta das Tarefas  
-<div align="center">
-<img width="472" alt="Consultar Tarefas" src="https://github.com/user-attachments/assets/afb68aa7-ced3-41d1-b610-7876c153c9eb" />
-</div>
-
----
-
-### 🔹 Interface de Alteração das Tarefas  
-<div align="center">
-<img width="333" alt="Alterar Tarefas" src="https://github.com/user-attachments/assets/dc277ee5-d435-4dfb-bff6-84e5ce94a770" />
-</div>
-
-<div align="center">
-<img width="499" alt="Alterar Tarefas" src="https://github.com/user-attachments/assets/55ff258f-20f5-4d7b-a028-363dd639517c" />
-</div>
 
 ---
