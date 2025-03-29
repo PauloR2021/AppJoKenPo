@@ -6,6 +6,7 @@
 
 ## 📌 Descrição  
 Este projeto foi desenvolvido para o uso didatico e de aprendizado da linguaguem Kotlin com desenvolvimento para Android
+
 ✅ Recriar o Jogo JoKenPo utilizando conceitos de programação.
 
 ## 🛠 Tecnologias Utilizadas  
