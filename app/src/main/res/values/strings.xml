@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Aplicativo Joguempo</string>
+    <string name="perdeu">Você Perdeu :(</string>
+    <string name="ganhou">Você Ganhou :D</string>
+    <string name="empate">Empatamos ;)</string>
+    <string name="descricao_pedra">Pedra</string>
+    <string name="descricao_tesoura">Tesoura</string>
+    <string name="descricao_papel">Papel</string>
+    <string name="descricao_resultado">Escolha do APP</string>
+    <string name="descricao_texto_app">O APP Jogou :</string>
+    <string name="descricao_texto_escolha_opcao">Escolha uma Opção:</string>
+</resources>
